@@ -32,7 +32,7 @@ A Python-based web scraper that collects tweets from Twitter (X) using Nitter as
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/tweet-web-scraper.git
+git clone https://github.com/sdliriano/tweet-web-scraper.git
 cd tweet-web-scraper
 ```
 
