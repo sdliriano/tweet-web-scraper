@@ -74,6 +74,10 @@ The CSV file contains the following columns:
 - `is_quote`: Whether the tweet is a quote tweet
 - `urls`: JSON array of URLs included in the tweet
 
+## Sample Dataset
+
+A sample dataset (`sample_dataset.csv`) is included in the repository to demonstrate the output format and data structure. This dataset contains real tweets with their associated metadata, including engagement metrics, language detection, and URL extraction.
+
 ## Notes
 
 - This scraper uses Nitter as an alternative frontend to Twitter to avoid rate limiting and authentication requirements

@@ -1,0 +1,73 @@
+tweet_id,text,created_at,lang,user_id_hashed,retweet_count,like_count,comment_count,is_reply,is_retweet,is_quote,urls
+1904546800540979498,,2025-03-25 14:51:00,en,58cc83f5b80cb53c,1823,14030,1268,False,False,False,[]
+1904513372269514941,,2025-03-25 12:39:00,en,58cc83f5b80cb53c,19376,259591,6938,False,False,False,[]
+1904494276446421306,,2025-03-25 11:23:00,en,58cc83f5b80cb53c,2190,16533,904,False,False,False,[]
+1904404172889342444,,2025-03-25 05:25:00,en,58cc83f5b80cb53c,3933,19080,1589,False,False,False,[]
+1904394693062062354,,2025-03-25 04:47:00,en,58cc83f5b80cb53c,19866,190250,10339,False,False,False,[]
+1904393482544042279,,2025-03-25 04:42:00,en,58cc83f5b80cb53c,16116,61655,2639,False,False,False,[]
+1904385966451888489,,2025-03-25 04:12:00,en,58cc83f5b80cb53c,50830,308933,11347,False,False,False,[]
+1904305594539938092,,2025-03-24 22:53:00,en,58cc83f5b80cb53c,20270,131067,4599,False,False,False,[]
+1904277110522622399,,2025-03-24 21:00:00,en,58cc83f5b80cb53c,54871,261234,8394,False,False,False,[]
+1904060455158428146,,2025-03-24 06:39:00,en,58cc83f5b80cb53c,54959,617807,24576,False,False,False,[]
+1904059207671833005,,2025-03-24 06:34:00,en,58cc83f5b80cb53c,78591,514724,16004,False,False,False,[]
+1904045586124349675,,2025-03-24 05:40:00,en,58cc83f5b80cb53c,16953,147532,5085,False,False,False,[]
+1904042314110022077,,2025-03-24 05:27:00,en,58cc83f5b80cb53c,17310,175461,5927,False,False,False,[]
+1904041980981592226,,2025-03-24 05:25:00,en,58cc83f5b80cb53c,60749,607109,29968,False,False,False,[]
+1904031132527526128,,2025-03-24 04:42:00,en,58cc83f5b80cb53c,50013,224839,11040,False,False,False,[]
+1903861923038302696,1000%,2025-03-23 17:30:00,en,58cc83f5b80cb53c,24902,127872,4915,False,False,False,[]
+1903861776036282679,Thoughtful rebuttal of propaganda,2025-03-23 17:29:00,en,58cc83f5b80cb53c,28993,153699,5881,False,False,False,[]
+1903858032666157509,,2025-03-23 17:15:00,en,58cc83f5b80cb53c,12084,72706,3551,False,False,False,[]
+1903848622736757201,,2025-03-23 16:37:00,en,58cc83f5b80cb53c,16327,88663,3262,False,False,False,[]
+1903847881515131146,,2025-03-23 16:34:00,en,58cc83f5b80cb53c,21039,109236,2299,False,False,False,[]
+1903807726586634452,,2025-03-23 13:55:00,en,58cc83f5b80cb53c,9481,73692,4402,False,False,False,[]
+1903794354084303296,Try using image editing with @Grok!,2025-03-23 13:01:00,en,58cc83f5b80cb53c,21850,339488,17055,False,False,False,"[""https://nitter.net/grok""]"
+1903684733747220685,,2025-03-23 05:46:00,en,58cc83f5b80cb53c,13492,102048,6166,False,False,False,[]
+1903680750341271688,The NCAA wrestling heavyweight championship match was amazing fighting between two super talented men!,2025-03-23 05:30:00,en,58cc83f5b80cb53c,13319,190215,4706,False,False,False,[]
+1903678336661946563,,2025-03-23 05:20:00,en,58cc83f5b80cb53c,31287,311677,5536,False,False,False,[]
+1903600676581634429,💯,2025-03-23 00:12:00,en,58cc83f5b80cb53c,18627,97232,3934,False,False,False,[]
+1903536600472072194,,2025-03-22 19:57:00,en,58cc83f5b80cb53c,19864,104739,2605,False,False,False,[]
+1903525203528888483,"Just wanted to say thank you to everyone supporting Tesla in the face of relentless attacks. 
+
+❤️❤️ Super Appreciated!! ❤️❤️",2025-03-22 19:12:00,en,58cc83f5b80cb53c,64835,770807,50540,False,False,False,[]
+1903489818937479443,,2025-03-22 16:51:00,en,58cc83f5b80cb53c,32680,253182,8555,False,False,False,[]
+1903485357892522363,🔥😂,2025-03-22 16:34:00,en,58cc83f5b80cb53c,19147,114007,4454,False,False,False,[]
+1903309208855929286,,2025-03-22 04:54:00,en,58cc83f5b80cb53c,15984,147079,6655,False,False,False,[]
+1903300376645783726,,2025-03-22 04:19:00,en,58cc83f5b80cb53c,11814,74072,3365,False,False,False,[]
+1903297224874041764,,2025-03-22 04:06:00,en,58cc83f5b80cb53c,53146,245447,10487,False,False,False,[]
+1903282810321850572,Vote for Brad Schimel in Wisconsin!,2025-03-22 03:09:00,en,58cc83f5b80cb53c,54273,206532,6794,False,False,False,[]
+1903277787626033303,😂 bbc.com/news/articles/cd65p1…,2025-03-22 02:49:00,en,58cc83f5b80cb53c,8494,62983,5182,False,False,False,"[""https://bbc.com/news/articles/cd65p1pv8pdo""]"
+1903228023345651900,The worst bad guys are the ones who are financing the Tesla terror campaign,2025-03-21 23:31:00,en,58cc83f5b80cb53c,51758,319588,18476,False,False,False,[]
+1903150113175863485,It’s so real 🤣🤣,2025-03-21 18:22:00,en,58cc83f5b80cb53c,21431,175434,10942,False,False,False,[]
+1903001084357947836,"Many all-star engineers are taking major pay cuts (sometimes to zero) and suffering from harassment, including death threats, to help the country with @DOGE, because they love America 🇺🇸",2025-03-21 08:29:00,en,58cc83f5b80cb53c,47597,252184,11292,False,False,False,"[""https://nitter.net/DOGE""]"
+1902989769874841617,,2025-03-21 07:44:00,en,58cc83f5b80cb53c,46472,211173,11421,False,False,False,[]
+1902977556329931052,"The New York Times is pure propaganda.
+
+Also, I look forward to the prosecutions of those at the Pentagon who are leaking maliciously false information to NYT. 
+
+They will be found.",2025-03-21 06:56:00,en,58cc83f5b80cb53c,61796,296565,15169,False,False,False,[]
+1902976751396925683,,2025-03-21 06:53:00,en,58cc83f5b80cb53c,18273,183630,5974,False,False,False,[]
+1902974258956968397,nitter.net/i/broadcasts/1lPJqMjQm…,2025-03-21 06:43:00,no,58cc83f5b80cb53c,4681,24739,1820,False,False,False,"[""https://nitter.net/i/broadcasts/1lPJqMjQmbAJb""]"
+1902899450487455809,"Tesla all-hands live presentation 
+ nitter.net/i/broadcasts/1DXxyqnNo…",2025-03-21 01:45:00,en,58cc83f5b80cb53c,7581,41208,3587,False,False,False,"[""https://nitter.net/i/broadcasts/1DXxyqnNoqbxM""]"
+1902845359405351295,💯,2025-03-20 22:11:00,en,58cc83f5b80cb53c,12556,75159,3243,False,False,False,[]
+1902837046206517376,,2025-03-20 21:37:00,en,58cc83f5b80cb53c,48712,509210,16979,False,False,False,[]
+1902825417527984570,"That fresh breeze you feel is the wide open Overton Window
+ nitter.net/i/grok/share/D4oF61Dwz…",2025-03-20 20:51:00,en,58cc83f5b80cb53c,5288,29112,2100,False,False,False,"[""https://nitter.net/i/grok/share/D4oF61Dwz9rLO1IIW1UuzohBC""]"
+1902824994809278711,,2025-03-20 20:50:00,en,58cc83f5b80cb53c,46857,626479,25167,False,False,False,[]
+1902744570674184318,,2025-03-20 15:30:00,en,58cc83f5b80cb53c,19883,109416,3651,False,False,False,[]
+1902649365140779050,,2025-03-20 09:12:00,en,58cc83f5b80cb53c,13087,103500,4525,False,False,False,[]
+1902646798704923035,,2025-03-20 09:02:00,en,58cc83f5b80cb53c,5172,37400,3569,False,False,False,[]
+1902644956201726108,"My @DOGE office with the late great Kekius Maximus on the wall
+open.spotify.com/track/6OLge…",2025-03-20 08:54:00,en,58cc83f5b80cb53c,1658,14705,1171,False,False,False,"[""https://nitter.net/DOGE"", ""https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5?si=3W9-_PlpTn6Mey07xhRHng&context=spotify%3Aplaylist%3A37i9dQZF1DWVdDMUimLXxx""]"
+1902642908609532004,"Remember when the Overton Window was shut tight af?
+
+Wasn’t that long ago 😂",2025-03-20 08:46:00,en,58cc83f5b80cb53c,7665,90450,3338,False,False,False,[]
+1902642215928656206,,2025-03-20 08:43:00,en,58cc83f5b80cb53c,56780,719435,26568,False,False,False,[]
+1902603121970368731,,2025-03-20 06:08:00,en,58cc83f5b80cb53c,17582,98981,4792,False,False,False,[]
+1902598145357308372,Reservoir @DOGE,2025-03-20 05:48:00,af,58cc83f5b80cb53c,25260,253824,17360,False,False,False,"[""https://nitter.net/DOGE""]"
+1902594516751937988,,2025-03-20 05:34:00,en,58cc83f5b80cb53c,6745,44969,2725,False,False,False,[]
+1902591787404857839,,2025-03-20 05:23:00,en,58cc83f5b80cb53c,6494,37525,2533,False,False,False,[]
+1902590609681981908,,2025-03-20 05:18:00,en,58cc83f5b80cb53c,4567,27094,1318,False,False,False,[]
+1902580143882637615,,2025-03-20 04:37:00,en,58cc83f5b80cb53c,17420,106777,3859,False,False,False,[]
+1902564961307488532,,2025-03-20 03:36:00,en,58cc83f5b80cb53c,9120,55457,2745,False,False,False,[]
+1902518955463328185,,2025-03-20 00:34:00,en,58cc83f5b80cb53c,13863,66089,4345,False,False,False,[]
